@@ -2,4 +2,4 @@
 CCTV1,https://node1.olelive.com:6443/live/CCTV1HD/hls.m3u8
 CCTV5,https://node1.olelive.com:6443/live/CCTV5HD/hls.m3u8
 CCTV5+,https://node1.olelive.com:6443/live/CCTV5PHD/hls.m3u8
-
+CCTV13 TEST,https://ldncctvwbcdkshw.v.kcdnvip.com/ldncctvwbcd/cdrmldcctv13_1/index.m3u8
