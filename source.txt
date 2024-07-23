@@ -1,4 +1,5 @@
 央视,#genre#
-CCTV1,https://ushls.ballbar.net/cctv1/playlist-67.m3u8a?t=1721704966&token=d4059c134745b2c777877d5b9194f3ba
-CCTV5,https://ushls.ballbar.net/cctv5/playlist-67.m3u8a?t=1721700728&token=61e8dff8cd5a82476c100381b96448ea
+CCTV5,https://k99441.kylintv.tv/live/cctv5hd_iphone.m3u8
+CCTV5+,http://43.132.64.50/outlivecloud-cdn.ysp.cctv.cn/ysp/2024078003.m3u8
+CCTV4K,http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/1.m3u8
 
